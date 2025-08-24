@@ -1,0 +1,16 @@
+{
+  "name": "blue-whale-payment-simple",
+  "version": "1.0.0",
+  "description": "蓝鲸支付测试 - 无依赖版本",
+  "scripts": {
+    "build": "echo 'Build completed'"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
+
+
+
